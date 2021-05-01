@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
+@font-face {
+  font-family: 'CGF Arch ReactorRUS';
+  src: url("../fonts/CGFArchReactorRUS.eot");
+  src: url("../fonts/CGFArchReactorRUS.eot?#iefix") format("embedded-opentype"), url("../fonts/CGFArchReactorRUS.woff2") format("woff2"), url("../fonts/CGFArchReactorRUS.woff") format("woff"), url("../fonts/CGFArchReactorRUS.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZvbnRzLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsd0dBQVk7QUFFWjtFQUNJLGtDQUFrQztFQUNsQywwQ0FBMEM7RUFDMUMsdVBBRzREO0VBQzVELG1CQUFtQjtFQUNuQixrQkFBa0I7RUFDbEIsa0JBQWtCLEVBQUEiLCJmaWxlIjoiZm9udHMuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9TW9udHNlcnJhdDp3Z2h0QDMwMDs0MDA7NTAwOzYwMDs3MDAmZGlzcGxheT1zd2FwJyk7XHJcbi8vIGZvbnQtZmFtaWx5OiAnTW9udHNlcnJhdCcsIHNhbnMtc2VyaWY7XHJcbkBmb250LWZhY2Uge1xyXG4gICAgZm9udC1mYW1pbHk6ICdDR0YgQXJjaCBSZWFjdG9yUlVTJztcclxuICAgIHNyYzogdXJsKCcuLi9mb250cy9DR0ZBcmNoUmVhY3RvclJVUy5lb3QnKTtcclxuICAgIHNyYzogdXJsKCcuLi9mb250cy9DR0ZBcmNoUmVhY3RvclJVUy5lb3Q/I2llZml4JykgZm9ybWF0KCdlbWJlZGRlZC1vcGVudHlwZScpLFxyXG4gICAgICAgIHVybCgnLi4vZm9udHMvQ0dGQXJjaFJlYWN0b3JSVVMud29mZjInKSBmb3JtYXQoJ3dvZmYyJyksXHJcbiAgICAgICAgdXJsKCcuLi9mb250cy9DR0ZBcmNoUmVhY3RvclJVUy53b2ZmJykgZm9ybWF0KCd3b2ZmJyksXHJcbiAgICAgICAgdXJsKCcuLi9mb250cy9DR0ZBcmNoUmVhY3RvclJVUy50dGYnKSBmb3JtYXQoJ3RydWV0eXBlJyk7XHJcbiAgICBmb250LXdlaWdodDogbm9ybWFsO1xyXG4gICAgZm9udC1zdHlsZTogbm9ybWFsO1xyXG4gICAgZm9udC1kaXNwbGF5OiBzd2FwO1xyXG59Il19 */

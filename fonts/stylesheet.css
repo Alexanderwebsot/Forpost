@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'CGF Arch ReactorRUS';
+    src: url('CGFArchReactorRUS.eot');
+    src: url('CGFArchReactorRUS.eot?#iefix') format('embedded-opentype'),
+        url('CGFArchReactorRUS.woff2') format('woff2'),
+        url('CGFArchReactorRUS.woff') format('woff'),
+        url('CGFArchReactorRUS.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
