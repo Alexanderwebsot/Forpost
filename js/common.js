@@ -42,10 +42,26 @@ $(document).ready(function () {
   $('.video-modal-button').on('click', function() {
     $('.dark-window').removeClass('dark-window-active');
     $('.video-modal').removeClass('video-modal-active');
+    $('.modal-booking').removeClass('modal-booking-active');
   })
   $('.dark-window').on('click', function() {
     $('.dark-window').removeClass('dark-window-active');
     $('.video-modal').removeClass('video-modal-active');
+    $('.modal-menu').removeClass('modal-menu-active');
+    $('.modal-booking').removeClass('modal-booking-active');
+  })
+  $('.menu__btn').on('click', function() {
+    $('.dark-window').addClass('dark-window-active');
+    $('.modal-menu').addClass('modal-menu-active');
+    return false;
+  })
+  $('.price-btn').on('click', function() {
+    return false;
+  })
+  $('.price-btn__active').on('click', function() {
+    $('.dark-window').addClass('dark-window-active');
+    $('.modal-booking').addClass('modal-booking-active');
+    return false;
   })
   if ($(window).width() < 1200) {
      $('.price-line').on('click', function() {
